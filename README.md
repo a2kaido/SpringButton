@@ -2,4 +2,4 @@
 
 Bound when clicked with Spring Animation.
 
-![サンプル](./art/sample.gif)
+<img width="50%" src="./art/sample.gif" />
