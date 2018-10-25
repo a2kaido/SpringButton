@@ -2,4 +2,4 @@
 
 Bound when clicked with Spring Animation.
 
-[サンプル](./art/sample.gif)
+![サンプル](./art/sample.gif)
